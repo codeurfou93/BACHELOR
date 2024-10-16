@@ -1,3 +1,0 @@
-Moyenne: 38.50
-Minimum: 11
-Maximum: 66
